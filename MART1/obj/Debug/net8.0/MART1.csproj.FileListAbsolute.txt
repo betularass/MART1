@@ -1,0 +1,14 @@
+C:\Users\betül\source\repos\MART1\bin\Debug\net8.0\MART1.exe
+C:\Users\betül\source\repos\MART1\bin\Debug\net8.0\MART1.deps.json
+C:\Users\betül\source\repos\MART1\bin\Debug\net8.0\MART1.runtimeconfig.json
+C:\Users\betül\source\repos\MART1\bin\Debug\net8.0\MART1.dll
+C:\Users\betül\source\repos\MART1\bin\Debug\net8.0\MART1.pdb
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\MART1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\MART1.AssemblyInfoInputs.cache
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\MART1.AssemblyInfo.cs
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\MART1.csproj.CoreCompileInputs.cache
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\MART1.dll
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\refint\MART1.dll
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\MART1.pdb
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\MART1.genruntimeconfig.cache
+C:\Users\betül\source\repos\MART1\obj\Debug\net8.0\ref\MART1.dll
